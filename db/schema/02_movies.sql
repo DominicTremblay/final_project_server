@@ -4,3 +4,4 @@ CREATE TABLE movies (
     title TEXT NOT NULL,
     release_date TIMESTAMP NOT NULL,
     runtime_mins INTEGER NOT NULL
+)
